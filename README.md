@@ -2,5 +2,4 @@
 
 This textured basketball was modeled and animated entirely in Blender.
 
-![Animated Pillow](Rendered Image/Basketball.png)
-
+![Basketball](./Rendered%20Image/Basketball.png)
